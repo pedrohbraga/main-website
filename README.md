@@ -18,7 +18,6 @@ GitHub is a popular version control platform that can be leveraged for sharing c
 
 ‘GitHub hesitancy’ due to conflation of Git and GitHub. People may overestimate the conceptual leap from their current collaborative approaches to GitHub speeds up and democratizes sharing of knowledge at all stages of research Reduces redundant work across research groups.
 
-
 ## Organizers
 
 -  Rob Crystal-Ornelas, rcrystalornelas@lbl.gov
